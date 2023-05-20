@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512488556570",
+    "firebase_url": "https://museum-15baa-default-rtdb.firebaseio.com",
+    "project_id": "museum-15baa",
+    "storage_bucket": "museum-15baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512488556570:android:d76202ab3898bd10df69a3",
+        "android_client_info": {
+          "package_name": "com.AR_Museum.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512488556570-o8maih7rf7r0s3i5otrbq0q00ktke05u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLRVbW9MYsaqafMuWNT5ENtBugg8IZUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512488556570-o8maih7rf7r0s3i5otrbq0q00ktke05u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
