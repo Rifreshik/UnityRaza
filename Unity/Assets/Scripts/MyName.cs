@@ -15,6 +15,6 @@ public class MyName : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        myName = myText.text.ToString ();
+        myName = myText.text.ToString () ;
     }
 }
