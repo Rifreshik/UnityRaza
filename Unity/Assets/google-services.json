@@ -1,37 +1,26 @@
 {
   "project_info": {
-    "project_number": "512488556570",
-    "firebase_url": "https://museum-15baa-default-rtdb.firebaseio.com",
-    "project_id": "museum-15baa",
-    "storage_bucket": "museum-15baa.appspot.com"
+    "project_number": "785145282538",
+    "project_id": "adminpanel-c2881",
+    "storage_bucket": "adminpanel-c2881.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:512488556570:android:d76202ab3898bd10df69a3",
+        "mobilesdk_app_id": "1:785145282538:android:71dcbf8b60e6b2a7adbc93",
         "android_client_info": {
-          "package_name": "com.AR_Museum.application"
+          "package_name": "com.Rifresh"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "512488556570-o8maih7rf7r0s3i5otrbq0q00ktke05u.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCFLRVbW9MYsaqafMuWNT5ENtBugg8IZUI"
+          "current_key": "AIzaSyDiHEXJgCbQKwNgn0xd0nMskSPEF_sf5JA"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "512488556570-o8maih7rf7r0s3i5otrbq0q00ktke05u.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
